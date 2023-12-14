@@ -1,7 +1,7 @@
 # FACE FORTIFY : Face Recognition Locker System
 
 ## Project Description
-Our project introduces a state-of-the-art Face Recognition Locker System implemented using a customized VGG16 model. This innovative solution combines advanced face recognition technology with a secure locker system, providing a seamless and secure user experience.
+Our final project introduces a state-of-the-art Face Recognition Locker System implemented using a customized VGG16 model. This innovative solution combines advanced face recognition technology with a secure locker system, providing a seamless and secure user experience.
 
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
